@@ -1,0 +1,14 @@
+.search-container input{
+    width: 400px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.search-button{
+    height: 32px;
+    margin-left: 30px;
+    width: 100px;
+    background-color: #eee;
+    border: 1px solid #c7c1c1a8;
+    font-size: 14px;
+}

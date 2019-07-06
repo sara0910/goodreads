@@ -1,0 +1,14 @@
+.header-container{
+    height: 150px;
+    background-color: #eee;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.h-title{
+    font-size: 29px;
+    color: #ab763b;
+    margin-bottom: 20px;
+}
